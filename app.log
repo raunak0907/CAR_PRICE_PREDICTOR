@@ -1,0 +1,34 @@
+2025-07-31 11:37:06,150 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:37:06,151 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:37:06,165 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-31 11:37:07,679 - WARNING -  * Debugger is active!
+2025-07-31 11:37:07,683 - INFO -  * Debugger PIN: 506-684-073
+2025-07-31 11:38:07,256 - INFO -  * Detected change in 'C:\\Users\\2005r\\OneDrive\\Documents\\car_price_predictor\\app.py', reloading
+2025-07-31 11:38:07,295 - INFO -  * Detected change in 'C:\\Users\\2005r\\OneDrive\\Documents\\car_price_predictor\\app.py', reloading
+2025-07-31 11:38:07,296 - INFO -  * Detected change in 'C:\\Users\\2005r\\OneDrive\\Documents\\car_price_predictor\\app.py', reloading
+2025-07-31 11:38:08,521 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-31 11:38:13,982 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:38:13,983 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:38:13,992 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-31 11:38:15,420 - WARNING -  * Debugger is active!
+2025-07-31 11:38:15,423 - INFO -  * Debugger PIN: 506-684-073
+2025-07-31 11:38:24,811 - INFO - 127.0.0.1 - - [31/Jul/2025 11:38:24] "GET / HTTP/1.1" 200 -
+2025-07-31 11:38:24,920 - INFO - 127.0.0.1 - - [31/Jul/2025 11:38:24] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-07-31 11:38:25,011 - INFO - 127.0.0.1 - - [31/Jul/2025 11:38:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-31 11:38:41,417 - INFO - 127.0.0.1 - - [31/Jul/2025 11:38:41] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-31 11:38:50,472 - INFO - 127.0.0.1 - - [31/Jul/2025 11:38:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-31 11:40:31,566 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:40:31,566 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:40:31,576 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-31 11:40:33,183 - WARNING -  * Debugger is active!
+2025-07-31 11:40:33,186 - INFO -  * Debugger PIN: 506-684-073
+2025-07-31 11:40:36,324 - INFO - 127.0.0.1 - - [31/Jul/2025 11:40:36] "GET / HTTP/1.1" 200 -
+2025-07-31 11:40:36,361 - INFO - 127.0.0.1 - - [31/Jul/2025 11:40:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-07-31 11:40:43,226 - INFO - 127.0.0.1 - - [31/Jul/2025 11:40:43] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-31 11:40:59,482 - INFO -  * Detected change in 'C:\\Users\\2005r\\OneDrive\\Documents\\car_price_predictor\\app.py', reloading
+2025-07-31 11:40:59,483 - INFO -  * Detected change in 'C:\\Users\\2005r\\OneDrive\\Documents\\car_price_predictor\\app.py', reloading
+2025-07-31 11:40:59,484 - INFO -  * Detected change in 'C:\\Users\\2005r\\OneDrive\\Documents\\car_price_predictor\\app.py', reloading
+2025-07-31 11:40:59,961 - INFO -  * Restarting with watchdog (windowsapi)
